@@ -2,7 +2,7 @@
   "author": "Joe Smith <yasumoto7@gmail.com> (http://bjoli.com)",
   "name": "parse-user-acl-update",
   "description": "Share objects that were created before a user made an account.",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "homepage": "https://github.com/Yasumoto/parse-user-acl-update",
   "repository": {
     "type": "git",
