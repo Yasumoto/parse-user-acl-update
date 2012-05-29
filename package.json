@@ -1,0 +1,16 @@
+{
+  "name":    "parse-user-acl-update",
+  "description": "Share objects that were created before a user made an account.",
+  "version": "0.2",
+
+  "dependencies": {
+    "express":   "2.4.6",
+  },
+
+  "author": "Joe Smith <yasumoto7@gmail.com>",
+  "main": "index",
+
+  "engines": {
+    "node": "0.6.x"
+  }
+}
