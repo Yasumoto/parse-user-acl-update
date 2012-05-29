@@ -1,10 +1,18 @@
 {
-  "name":    "parse-user-acl-update",
+  "author": "Joe Smith <yasumoto7@gmail.com> (http://bjoli.com)",
+  "name": "parse-user-acl-update",
   "description": "Share objects that were created before a user made an account.",
-  "version": "0.2",
-  "author": "Joe Smith <yasumoto7@gmail.com>",
+  "version": "0.2.1",
+  "homepage": "https://github.com/Yasumoto/parse-user-acl-update",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Yasumoto/parse-user-acl-update.git"
+  },
   "main": "./lib/parse.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
   "engines": {
-    "node": "0.6.x"
+    "node": "*"
   }
 }
