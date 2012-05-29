@@ -4,7 +4,7 @@
   "version": "0.2",
 
   "dependencies": {
-    "express":   "2.4.6",
+    "express":   "2.4.6"
   },
 
   "author": "Joe Smith <yasumoto7@gmail.com>",
