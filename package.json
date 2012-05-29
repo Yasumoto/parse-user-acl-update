@@ -8,7 +8,7 @@
   },
 
   "author": "Joe Smith <yasumoto7@gmail.com>",
-  "main": "index",
+  "main": "./lib/parse.js",
 
   "engines": {
     "node": "0.6.x"
