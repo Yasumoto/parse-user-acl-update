@@ -8,10 +8,6 @@ Mad props to the heroku node sample application.
 Run locally
 -----------
 
-Install dependencies:
-
-    npm bundle install
-
 Copy the App ID and Secret from your Parse dashboard into your `.env`:
 
     echo PARSE_APP_ID=12345 >> .env
