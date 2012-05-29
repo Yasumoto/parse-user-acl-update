@@ -1,1 +1,1 @@
-exports.ParseAclUpdate = require('./lib/parse.js');
+exports = require('./lib/parse.js');
